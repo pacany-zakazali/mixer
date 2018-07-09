@@ -14,4 +14,5 @@ Just create an issue, after short reviewing you dreams will appear here. Or drop
  - As minimum three independent outputs, dedicated volume regulator for every (one master, one booth, one recording)
  - No balanced\unbalanced outputs, because there is home mixer.
  
- 
+ # Insiped
+ 1. https://www.olx.pl/oferta/wzmacniacz-sluchawkowy-mikser-cyfrowy-jamhub-tourbus-CID751-IDu77EX.html#
