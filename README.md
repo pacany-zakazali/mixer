@@ -4,7 +4,7 @@ We need new shiny mixer. Nothing in the market with _our_ bell and whitles. So, 
 #Может на русском писать тут?
 
 # How to add
-Just create an issue, after short reviewing you dreams will appear here.
+Just create an issue, after short reviewing you dreams will appear here. Or drop me a line via pacany_zakazali@inbox.lv
 
 # Requirements
  - 4..6 independent line channels (+ phone output on every)
