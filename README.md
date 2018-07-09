@@ -1,6 +1,9 @@
 # The Mixer
 We need new shiny mixer. Nothing in the market with _our_ bell and whitles. So, only one way is possible - custom build. There is the place where we will add some requirements. 
 
+# How to add
+Just create an issue, after short reviewing you dreams will appear here.
+
 # Requirements
  - 4..6 independent line channels (+ phone output on every)
  - RCA jacks + thin jack for every
