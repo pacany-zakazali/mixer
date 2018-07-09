@@ -19,6 +19,7 @@ Just create an issue, after short reviewing you dreams will appear here. Or drop
  - All connections in the back side.
  - Socket for a lamp?
  - Levels = sliders?
+ - Metronome\MIDI metronome?
  
  # Inspired
  1. https://www.olx.pl/oferta/wzmacniacz-sluchawkowy-mikser-cyfrowy-jamhub-tourbus-CID751-IDu77EX.html#
