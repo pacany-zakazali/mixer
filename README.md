@@ -22,4 +22,5 @@ Just create an issue, after short reviewing you dreams will appear here. Or drop
  - Metronome\MIDI metronome? https://www.e-rm.de/midiclock look at the price =) or http://maxmidi.com/diy/metro/
  
  # Inspired
- 1. https://www.olx.pl/oferta/wzmacniacz-sluchawkowy-mikser-cyfrowy-jamhub-tourbus-CID751-IDu77EX.html#
+ 1. https://www.olx.pl/oferta/wzmacniacz-sluchawkowy-mikser-cyfrowy-jamhub-tourbus-CID751-IDu77EX.html
+ 2. https://www.olx.pl/oferta/mikser-estradowy-8-kan-procesor-poglosu-CID751-IDd5QDH.html
