@@ -9,6 +9,7 @@ Just create an issue, after short reviewing you dreams will appear here. Or drop
 # Requirements
  - 4..6 independent line channels (+ phone output on every) + three different levels 0..150,  0..250, 0..1000 mV
  - RCA jacks + thin jack for every
+ - Mute button on every channel
  - No crossfader
  - Level meter for the every channel + master, like this (TODO, insert image)
  - As minimum three independent outputs, dedicated volume regulator for every (one master, one booth, one recording)
