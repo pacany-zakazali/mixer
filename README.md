@@ -20,6 +20,9 @@ Just create an issue, after short reviewing you dreams will appear here. Or drop
  - Socket for a lamp?
  - Levels = sliders?
  - Metronome\MIDI metronome? https://www.e-rm.de/midiclock look at the price =) or http://maxmidi.com/diy/metro/
+ - Internal power supply
+ - Limiter\compressor\desssator?
+ - Lamp cascade?
  
  # Inspired
  1. https://www.olx.pl/oferta/wzmacniacz-sluchawkowy-mikser-cyfrowy-jamhub-tourbus-CID751-IDu77EX.html
